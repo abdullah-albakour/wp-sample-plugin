@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WordPress Sample Plugin
- * Plugin URI: 
+ * Plugin URI: https://github.com/abdullah-albakour/wp-sample-plugin
  * Description: A Sample WordPress Plugin To Test My WordPress Development
  * Version: 1.0
  * Author: Abdullah Albakour
